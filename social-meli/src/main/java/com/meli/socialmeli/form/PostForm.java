@@ -5,6 +5,7 @@ import com.meli.socialmeli.entity.Post;
 import com.meli.socialmeli.entity.Product;
 import com.meli.socialmeli.entity.Seller;
 
+import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 import java.time.LocalDate;
 
